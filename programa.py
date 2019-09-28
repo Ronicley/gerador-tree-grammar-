@@ -1,4 +1,4 @@
-from tree import *
+from Tree import *
 t=Tree.Tree()
 
 print(t.expressao(1))

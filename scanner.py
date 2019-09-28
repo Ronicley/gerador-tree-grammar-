@@ -1,6 +1,6 @@
 import json
-import tree
-t = tree.Tree()
+import Tree
+t = Tree.Tree()
 
 entrada = open('arquivo.txt', 'r')
 linha = entrada.read()
